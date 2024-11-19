@@ -4,7 +4,7 @@ Ao longo dess projeto, foi desenvolvendo um pipeline de dados, uma sequência es
 
 ## Objetivo Principal
 
-Nosso objetivo principal com esse pipeline é disponibilizar informações de vendas, atualmente em uma API, para as equipes que precisam delas. Cada equipe possui necessidades distintas, o que torna nosso trabalho como engenheiras(os) de dados ainda mais crucial. O pipe-line foi desenvolvido usando 
+Nosso objetivo principal com esse pipeline é disponibilizar informações de vendas, atualmente em uma API, para as equipes que precisam delas. Cada equipe possui necessidades distintas, o que torna nosso trabalho como engenheiras(os) de dados ainda mais crucial. O pipe-line foi desenvolvido usando:
 
 - Banco: MONGO
 - Banco MYSQL
